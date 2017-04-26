@@ -1,0 +1,26 @@
+# project  configured on Thu Feb 23 22:44:10 2017 by
+# waf 1.8.2 (abi 98, python 20706f0 on linux2)
+# using ./waf configure
+#
+----------------------------------------
+Setting top to
+/vagrant/AutoNdn-Project/auto-ndn-manufacturer
+----------------------------------------
+Setting out to
+/vagrant/AutoNdn-Project/auto-ndn-manufacturer/build
+----------------------------------------
+Checking for 'g++' (C++ compiler)
+find program='clang++' paths=['/usr/local/sbin', '/usr/local/bin', '/usr/sbin', '/usr/bin', '/sbin', '/bin', '/usr/games', '/usr/local/games'] var='CXX' -> ['clang++']
+from /vagrant/AutoNdn-Project/auto-ndn-manufacturer: Program ['clang++'] is not executable
+not found
+----------------------------------------
+Checking for 'clang++' (C++ compiler)
+find program='clang++' paths=['/usr/local/sbin', '/usr/local/bin', '/usr/sbin', '/usr/bin', '/sbin', '/bin', '/usr/games', '/usr/local/games'] var='CXX' -> ['clang++']
+from /vagrant/AutoNdn-Project/auto-ndn-manufacturer: Program ['clang++'] is not executable
+not found
+----------------------------------------
+Checking for 'icpc' (C++ compiler)
+find program='clang++' paths=['/usr/local/sbin', '/usr/local/bin', '/usr/sbin', '/usr/bin', '/sbin', '/bin', '/usr/games', '/usr/local/games'] var='CXX' -> ['clang++']
+from /vagrant/AutoNdn-Project/auto-ndn-manufacturer: Program ['clang++'] is not executable
+not found
+from /vagrant/AutoNdn-Project/auto-ndn-manufacturer: could not configure a C++ compiler!
